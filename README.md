@@ -126,17 +126,10 @@ Successfully verified:
 * IAM Policy Creation
 * Policy Attachment to Group
 
-## Screenshots
 
-Add screenshots in the screenshots folder:
-
-* iam-users.png
-* iam-groups.png
-* group-membership.png
-* attached-policy.png
 
 ## Author
 
-Sakthi Balamurugan
+Sakthi B
 
 Cloud Computing Student | AWS & Cloud Engineering Learner
